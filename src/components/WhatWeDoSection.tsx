@@ -54,7 +54,7 @@ const WhatWeDoSection = () => {
           </div>
           
           <div className="relative aspect-[4/3] bg-navy rounded-2xl overflow-hidden group">
-            <div className="absolute inset-0 bg-gradient-to-br from-blue-900 to-navy flex items-center justify-center">
+            <div className="absolute inset-0 bg-gradient-to-br from-navy-light to-navy flex items-center justify-center">
               <div className="text-center text-primary-foreground">
                 <Server className="w-16 h-16 mx-auto mb-4 opacity-80" />
                 <p className="text-xl font-semibold">Clean Code</p>
