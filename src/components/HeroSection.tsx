@@ -83,9 +83,8 @@ const HeroSection = () => {
             {/* Right - Description */}
             <div className="animate-fade-in" style={{ animationDelay: "0.6s" }}>
               <p className="section-subtitle mb-8">
-                We build, launch, and maintain cutting-edge mobile products, 
-                covering everything from front-end experiences to robust backend 
-                architectures. Our team delivers excellence at scale.
+                Engineering excellence meets innovation. We craft high-performance, 
+                scalable solutions for tomorrow's challenges using cutting-edge technologies.
               </p>
 
               {/* CTA Buttons */}
