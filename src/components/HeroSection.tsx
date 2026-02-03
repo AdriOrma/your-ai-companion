@@ -76,7 +76,7 @@ const HeroSection = () => {
             {/* Left - Headline */}
             <div className="animate-fade-in" style={{ animationDelay: "0.4s" }}>
               <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-navy leading-tight">
-                Innovating mobile solutions since 2002
+                Complex software problems? That's our thing.
               </h1>
             </div>
 
