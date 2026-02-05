@@ -5,6 +5,7 @@ import OpenSourceSection from "@/components/OpenSourceSection";
 import AchievementsSection from "@/components/AchievementsSection";
 import WorkWithUsSection from "@/components/WorkWithUsSection";
 import Footer from "@/components/Footer";
+import MobileAppDemo from "@/components/demo/MobileAppDemo";
 
 const Index = () => {
   return (
@@ -13,6 +14,7 @@ const Index = () => {
       <main>
         <HeroSection />
         <WhatWeDoSection />
+        <MobileAppDemo />
         <OpenSourceSection />
         <AchievementsSection />
         <WorkWithUsSection />
